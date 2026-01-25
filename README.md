@@ -17,7 +17,7 @@ I love learning new things and pushing my limits like last year, when I moved to
 
 ### 🔬 Featured Research
 * **CLEF 2024 Publication:** Engineered an ensemble approach (GPT-4, Llama 3, Gemma) for Multilingual Hallucination Detection (**0.91 F1-score**). [<img src="https://img.shields.io/badge/arXiv-2407.09152-b31b1b?style=flat-square&logo=arxiv&logoColor=white">](https://arxiv.org/abs/2407.09152)
-* **Master's Thesis:** Few-shot LLM forecasting and anomaly detection using **Mistral & LLaMA** via the **Unsloth Framework**.
+* **Master's Thesis:** Few-shot LLM forecasting and time series anomaly detection using **Mistral & LLaMA & DeepSeek** via the **Unsloth Framework**.
 ---
 
 ### ⚡ Technical Toolkit
