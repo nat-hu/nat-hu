@@ -34,6 +34,8 @@ These public repositories showcase a variety of lab work and personal experiment
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nat-hu&layout=compact)
+
 ### 📫 Connect with me
 [<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin">](http://linkedin.com/in/natalie-hussfeldt-2b1742239) 
 
