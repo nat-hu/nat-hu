@@ -29,7 +29,7 @@ I love learning new things and pushing my limits like last year, when I moved to
 
 ### 🔒 Note on Repositories
 Most of my work is kept in **private repositories** for confidentiality and academic integrity.
-However, you can find a selection of projects here that reflect my journey and growth—starting from my roots in Media Informatics and evolving into my current specialization in Data Science. 
+However, you can find a selection of projects here that reflect my journey and growth, starting from my roots in Media Informatics and evolving into my current specialization in Data Science. 
 These public repositories showcase a variety of lab work and personal experiments across different languages and frameworks.
 
 ---
