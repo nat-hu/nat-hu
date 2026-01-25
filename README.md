@@ -23,7 +23,7 @@ I love learning new things and pushing my limits like last year, when I moved to
 ### ⚡ Technical Toolkit
 **AI/Data:** Python, PyTorch, Hugging Face, Unsloth, SQL, Snowflake, Celonis, Dataiku  
 **Engineering:** C, C++, Java, Linux, Docker, Git  
-**Languages:** German (Native), English (C1), French (A2), Swedish (pyttelite)
+**Languages:** German (Native), English (C1), French (A2)
 
 ---
 
