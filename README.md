@@ -37,4 +37,4 @@ These public repositories showcase a variety of lab work and personal experiment
 ### 📫 Connect with me
 [<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin">](http://linkedin.com/in/natalie-hussfeldt-2b1742239) 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=o75rp4ngcxbpevbwchv4f9zw3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=o75rp4ngcxbpevbwchv4f9zw3&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=o75rp4ngcxbpevbwchv4f9zw3&redirect=true)
