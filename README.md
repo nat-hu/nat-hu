@@ -43,7 +43,7 @@ These public repositories showcase a variety of lab work and personal experiment
 | [🔗 View Repository](https://github.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt) \| [📄 Full Presentation (PDF)](https://github.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt/blob/main/knowledge_graphs.pdf) |
 
 
-https://github.com/user-attachments/assets/1995d9ec-c718-4447-a0a8-060acaf4ec15
+https://github.com/user-attachments/assets/edf74730-abde-4f55-8fc8-3a1abba9e94d
 
 ---
 
