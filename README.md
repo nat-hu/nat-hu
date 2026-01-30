@@ -45,8 +45,7 @@ These public repositories showcase a variety of lab work and personal experiment
   <video src="https://github.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt/raw/refs/heads/main/knowledge_graphs_presentation.mp4" controls width="80%" poster="https://raw.githubusercontent.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt/main/images/1.png">
     Your browser does not support the video tag.
   </video>
-
-  <p align="center">
+  <p>
     <b>[🔗 <a href="https://github.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt">View Code Repository</a>]</b> &nbsp; | &nbsp; 
     <b>[📄 <a href="https://github.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt/blob/main/knowledge_graphs.pdf">Open Full Presentation (PDF)</a>]</b>
   </p>
