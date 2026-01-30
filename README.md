@@ -34,6 +34,32 @@ These public repositories showcase a variety of lab work and personal experiment
 
 ---
 
+### Project Portfolio
+
+## The Covid-19 Knowledge Graph
+**Tools:** `Python` | `Neo4j` | `Leafmap` | `SPARQL` | `Linked-Open Data`
+
+> **Project Overview:** A technical deep-dive into the Covid-19 pandemic using Semantic Web technologies. I built a Knowledge Graph in **Neo4j** to map complex global health relationships and created interactive geospatial visualizations with **Leafmap** based on the *Our World in Data* dataset.
+
+<div align="center">
+  <video src="https://github.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt/raw/refs/heads/main/knowledge_graphs_presentation.mp4" controls width="80%" poster="https://raw.githubusercontent.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt/main/images/1.png">
+    Your browser does not support the video tag.
+  </video>
+
+  <p align="center">
+    <b>[🔗 <a href="https://github.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt">View Code Repository</a>]</b> &nbsp; | &nbsp; 
+    <b>[📄 <a href="https://github.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt/blob/main/knowledge_graphs.pdf">Open Full Presentation (PDF)</a>]</b>
+  </p>
+</div>
+
+---
+
+
+### 💡 How to navigate this portfolio
+* **Watch the Clips:** Click the play button on project videos to see a quick demo of the features.
+* **Deep Dive:** Use the "Full Presentation" links to view detailed architectural slides and methodology.
+* **Explore Code:** The "View Repository" links take you directly to the source code and documentation.
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nat-hu&layout=compact)
 
 ### 📫 Connect with me
