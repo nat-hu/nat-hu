@@ -36,18 +36,30 @@ These public repositories showcase a variety of lab work and personal experiment
 
 ### Project Portfolio
 
-## The Covid-19 Knowledge Graph
+| The Covid-19 Knowledge Graph |
+| :--- |
+| **Tools:** `Python`, `Neo4j`, `Leafmap`, `SPARQL`, `Linked-Open Data` |
+| **Description:** Technical analysis of pandemic dynamics using Semantic Web technologies. I developed a Knowledge Graph in **Neo4j** to model complex relationships between infections, locations, and time. Features interactive geospatial visualizations created with **Leafmap** to track global trends and data integration from *Our World in Data*. |
+| [🔗 View Repository](https://github.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt) \| [📄 Full Presentation (PDF)](https://github.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt/blob/main/knowledge_graphs.pdf) |
+
 
 https://github.com/user-attachments/assets/1995d9ec-c718-4447-a0a8-060acaf4ec15
+
+---
+
+|Modern Database Systems |
+| :--- |
+| **Tools:** `PostgreSQL`, `Neo4j AuraDB`, `SQL`, `Cypher`, `Python` |
+| **Description:** Comparative analysis of **Relational vs. Graph Databases** in an educational context. Using the OULAD dataset, I implemented queries to identify at-risk students and provide personalized learning recommendations. The project highlights **Neo4j's** efficiency in handling complex, interconnected student data compared to traditional **SQL** joins. |
+| [🔗 View Repository](https://github.com/nat-hu/modern_database_systems) \| [📄 Full Presentation (PDF)](https://github.com/nat-hu/modern_database_systems/blob/6b89b5e02f606265f928f6e60df8ec09f9f120e7/modern_database_systems.pdf) |
+
+
+https://github.com/user-attachments/assets/1e1f537a-c317-4257-a635-a3087cad0ad7
    
+---
 
-  <p>
-    <b>[🔗 <a href="https://github.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt">View Code Repository</a>]</b> &nbsp; | &nbsp; 
-    <b>[📄 <a href="https://github.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt/blob/main/knowledge_graphs.pdf">Open Full Presentation (PDF)</a>]</b>
-  </p>
-</div>
 
-> **Project Description:** A technical deep-dive into the Covid-19 pandemic using Semantic Web technologies. I built a Knowledge Graph in **Neo4j** to map complex global health relationships and created interactive geospatial visualizations with **Leafmap**.
+
 
 ---
 
