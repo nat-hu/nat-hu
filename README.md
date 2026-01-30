@@ -36,7 +36,7 @@ These public repositories showcase a variety of lab work and personal experiment
 
 ### Project Portfolio
 
-| The Covid-19 Knowledge Graph |
+|The Covid-19 Knowledge Graph |
 | :--- |
 | **Tools:** `Python`, `Neo4j`, `Leafmap`, `SPARQL`, `Linked-Open Data` |
 | **Description:** Technical analysis of pandemic dynamics using Semantic Web technologies. I developed a Knowledge Graph in **Neo4j** to model complex relationships between infections, locations, and time. Features interactive geospatial visualizations created with **Leafmap** to track global trends and data integration from *Our World in Data*. |
@@ -57,9 +57,12 @@ https://github.com/user-attachments/assets/edf74730-abde-4f55-8fc8-3a1abba9e94d
 https://github.com/user-attachments/assets/1e1f537a-c317-4257-a635-a3087cad0ad7
    
 ---
-
-
-
+|AML Portfolio |
+| :--- |
+| **Tools:** `Python`, `Scikit-learn`, `TensorFlow/PyTorch`, `NLTK/Transformers` |
+| [![AML Portfolio Preview](https://github.com/nat-hu/AML-Portfolio/raw/main/aml_portfolio_details.png)](https://github.com/nat-hu/AML-Portfolio/blob/main/aml_portfolio_details.pdf) |
+| **Description:** This repository contains the practical implementations and theoretical recaps from the Advanced Machine Learning specialization. The course focuses on modern ML/DL principles, transitioning from theory to real-world applications in Computer Vision (CV) and Natural Language Understanding (NLU). |
+| [🔗 View Repository](https://github.com/nat-hu/AML-Portfolio) \ |
 
 ---
 
