@@ -166,27 +166,31 @@ This repository contains the practical implementations and theoretical recaps fr
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
-<td width="70%" align="center" valign="middle">
+<td width="65%" align="center" valign="middle">
 <img src="https://raw.githubusercontent.com/nat-hu/pointnclick_escaperoom_game/main/images/PointnClick_Adventure_2021-01-05_10-44-28.gif"
      width="100%"
      style="height:auto; max-height:500px; border-radius:8px;"
-     alt="Point & Click Escape Room Game 🕹️">
+     alt="Point & Click Escape Room Game">
 </td>
 
-<td width="30%" valign="top" style="padding-left: 20px;">
-<h3>Escape Room Game</h3>
+<td width="35%" valign="top" style="padding-left: 20px;">
+<h3>🕹️ Point & Click Escape Room</h3>
 
-<p><strong>Tools:</strong><br>
-<code>Java</code> · <code>JavaFX</code> · <code>Spring Framework</code> · <code>PostgreSQL</code> · <code>REST API</code>
+<p><strong>Stack:</strong><br>
+<code>Java</code> · <code>JavaFX</code> · <code>Spring Boot</code> · <code>PostgreSQL</code> · <code>JUnit</code> · <code>REST API</code>
 </p>
 
-<p><strong>Description:</strong><br>
-An immersive 2D adventure featuring an Escape Room game with custom <strong>Character Creation Tool</strong>, <strong>Mini Games</strong>, a global <strong>Hall of Fame</strong>. The project implements a robust architecture using <strong>Dependency Injection</strong> (Spring) and a <strong>RESTful backend</strong> (Spring Boot) to manage highscores and player data in a PostgreSQL database.
+<p><strong>Core Contribution:</strong><br>
+Developed as a third-semester team project (5 people) for <i>Software Development III</i>. I was responsible for the <strong>Character Creation Tool</strong> (dynamic RGBA filtering), <strong>Tutorial System</strong>, and setting up <strong>Dependency Injection</strong> via the Spring Framework.
+</p>
+
+<p><strong>Highlights:</strong><br>
+Features 7 mini-games, a persistent save system, and a global Hall of Fame. Documented thoroughly using the <strong>arc42 template</strong> and managed via <strong>GitLab CI/CD</strong>.
 </p>
 
 <p>
 <a href="https://github.com/nat-hu/pointnclick_escaperoom_game">🔗 View Repository</a><br>
-<a href="https://github.com/nat-hu/pointnclick_escaperoom_game/blob/main/PointnClick_presentation.pdf">📄 Technical Documentation (PDF)</a>
+<a href="https://github.com/nat-hu/pointnclick_escaperoom_game/blob/main/PointnClick_presentation.pdf">📄 Full Presentation (PDF)</a>
 </p>
 </td>
 </tr>
@@ -194,14 +198,14 @@ An immersive 2D adventure featuring an Escape Room game with custom <strong>Char
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
-<td width="33%" align="center">
-<img src="https://raw.githubusercontent.com/nat-hu/pointnclick_escaperoom_game/main/images/se_click_game_gadgets.png" width="100%" style="max-width:400px; border-radius:6px;">
+<td width="33%" align="center" style="padding:5px;">
+<img src="https://raw.githubusercontent.com/nat-hu/pointnclick_escaperoom_game/main/images/se_click_game_gadgets.png" width="100%" style="border-radius:6px;" alt="In-game Items">
 </td>
-<td width="33%" align="center">
-<img src="https://raw.githubusercontent.com/nat-hu/pointnclick_escaperoom_game/main/images/Slide3.png" width="100%" style="max-width:400px; border-radius:6px;">
+<td width="33%" align="center" style="padding:5px;">
+<img src="https://raw.githubusercontent.com/nat-hu/pointnclick_escaperoom_game/main/images/Slide3.png" width="100%" style="border-radius:6px;" alt="Character Creation">
 </td>
-<td width="33%" align="center">
-<img src="https://raw.githubusercontent.com/nat-hu/pointnclick_escaperoom_game/main/images/Slide5.png" width="100%" style="max-width:400px; border-radius:6px;">
+<td width="33%" align="center" style="padding:5px;">
+<img src="https://raw.githubusercontent.com/nat-hu/pointnclick_escaperoom_game/main/images/Slide5.png" width="100%" style="border-radius:6px;" alt="Mini-games">
 </td>
 </tr>
 </table>
