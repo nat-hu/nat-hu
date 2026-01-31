@@ -42,6 +42,54 @@ These public repositories showcase a variety of lab work and personal experiment
 ---
 ### Project Portfolio
 ---
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="65%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/nat-hu/cc-stadt-land-fluss/main/images/cloud_architecture.png"
+     width="100%"
+     style="height:auto; max-height:500px; border-radius:8px;"
+     alt="Stadt Land Fluss Multiplayer Game">
+</td>
+
+<td width="35%" valign="top" style="padding-left: 20px;">
+<h3>☁️ Serverless Multiplayer Game</h3>
+
+<p><strong>Stack:</strong><br>
+<code>Angular</code> · <code>Python</code> · <code>AWS Lambda</code> · <code>DynamoDB</code> · <code>WebSockets</code> · <code>GitLab CI/CD</code>
+</p>
+
+<p><strong>Description:</strong><br>
+A scalable, real-time multiplayer version of "City-Country-River." Built on a <b>Serverless FaaS</b> architecture, it utilizes <b>AWS API Gateway (WebSockets)</b> for live player interaction and <b>DynamoDB</b> for high-speed data storage.
+</p>
+
+<p><strong>Highlights:</strong><br>
+Automated 3-stage deployment pipeline (Test, Build, Deploy) and infrastructure managed via the <b>Serverless Framework</b>.
+</p>
+
+<p>
+<a href="https://blog.mi.hdm-stuttgart.de/index.php/2022/08/29/multiplayer-game-with-aws-stadtlandfluss/">📰 Read Blog Article</a><br>
+<a href="https://github.com/nat-hu/stadt_land_fluss">🔗 View Repository</a><br>
+<a href="https://github.com/nat-hu/stadt_land_fluss/blob/main/Stadt-Land-Fluss.pdf">📄 Technical Presentation (PDF)</a>
+</p>
+</td>
+</tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="33%" align="center" style="padding:5px;">
+<img src="https://raw.githubusercontent.com/nat-hu/cc-stadt-land-fluss/main/images/framework.png" width="100%" style="border-radius:6px;" alt="Game Lobby">
+</td>
+<td width="33%" align="center" style="padding:5px;">
+<img src="https://raw.githubusercontent.com/nat-hu/cc-stadt-land-fluss/main/images/lambdas.png" width="100%" style="border-radius:6px;" alt="Multiplayer Gameplay">
+</td>
+<td width="33%" align="center" style="padding:5px;">
+<img src="https://raw.githubusercontent.com/nat-hu/cc-stadt-land-fluss/main/images/cloudwatch.png" width="100%" style="border-radius:6px;" alt="AWS Architecture">
+</td>
+</tr>
+</table>
+
+---
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
