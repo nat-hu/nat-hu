@@ -45,6 +45,39 @@ These public repositories showcase a variety of lab work and personal experiment
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
 <td width="65%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/nat-hu/auto-sound-subtitling/main/images/project.png"
+     width="100%"
+     style="height:auto; max-height:500px; border-radius:8px;"
+     alt="Automatic Sound Subtitling Project Poster">
+</td>
+
+<td width="35%" valign="top" style="padding-left: 20px;">
+<h3>🎙️ AI Sound Subtitling</h3>
+
+<p><strong>Stack:</strong><br>
+<code>Python</code> · <code>PyTorch</code> · <code>Torchaudio</code> · <code>CNN</code> · <code>Librosa</code> · <code>Pandas</code>
+</p>
+
+<p><strong>Core Contribution:</strong><br>
+Developed in cooperation with <b>IAAI</b> and <b>SWR</b>. I designed the end-to-end pipeline for automated sound recognition in a team project of 2, including <b>Mel-Spectrogram</b> feature extraction and <b>SpecAugment</b> for data augmentation.
+</p>
+
+<p><strong>Highlights:</strong><br>
+Implemented a <b>Convolutional Neural Network (CNN)</b> to classify audio segments, augmenting video subtitles with automated sound annotations for improved accessibility.
+</p>
+
+<p>
+<a href="https://github.com/nat-hu/auto-sound-subtitling">🔗 View Repository</a><br>
+</p>
+</td>
+</tr>
+</table>
+
+
+---
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="65%" align="center" valign="middle">
 <img src="https://raw.githubusercontent.com/nat-hu/cc-stadt-land-fluss/main/images/cloud_architecture.png"
      width="100%"
      style="height:auto; max-height:500px; border-radius:8px;"
