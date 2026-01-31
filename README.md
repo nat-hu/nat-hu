@@ -31,21 +31,58 @@ I love learning new things and pushing my limits like last year, when I moved to
 Most of my work is kept in **private repositories** for confidentiality and academic integrity.
 However, you can find a selection of projects here that reflect my journey and growth, starting from my roots in Media Informatics and evolving into my current specialization in Data Science. 
 These public repositories showcase a variety of lab work and personal experiments across different languages and frameworks.
-
 ---
 
 ### Project Portfolio
 
-|The Covid-19 Knowledge Graph |
-| :--- |
-| **Tools:** `Python`, `Neo4j`, `Leafmap`, `SPARQL`, `Linked-Open Data` |
-| **Description:** Technical analysis of pandemic dynamics using Semantic Web technologies. I developed a Knowledge Graph in **Neo4j** to model complex relationships between infections, locations, and time. Features interactive geospatial visualizations created with **Leafmap** to track global trends and data integration from *Our World in Data*. |
-| [🔗 View Repository](https://github.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt) \| [📄 Full Presentation (PDF)](https://github.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt/blob/main/knowledge_graphs.pdf) |
-
-
-https://github.com/user-attachments/assets/edf74730-abde-4f55-8fc8-3a1abba9e94d
 
 ---
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="70%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt/main/images/13.png"
+     width="100%"
+     style="height:auto; max-height:500px; border-radius:8px;"
+     alt="Covid-19 Knowledge Graph">
+</td>
+
+<td width="30%" valign="top">
+<h3>The Covid-19 Knowledge Graph</h3>
+
+<p><strong>Tools:</strong><br>
+<code>Python</code> · <code>Neo4j</code> · <code>Cypher</code> ·
+<code>Leafmap</code> · <code>NetworkX</code> · <code>PyVis</code>
+</p>
+
+<p><strong>Description:</strong><br>
+Technical analysis of pandemic dynamics using Semantic Web technologies. I developed a Knowledge Graph in <strong>Neo4j</strong> to model relationships between infections, locations, and time, with interactive geospatial visualizations and integrated data from
+<a href="https://github.com/owid/covid-19-data/tree/master">Our World in Data</a>.
+</p>
+
+<p>
+<a href="https://github.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt">🔗 View Repository</a><br>
+<a href="https://github.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt/blob/main/knowledge_graphs.pdf">📄 Full Presentation (PDF)</a>
+</p>
+</td>
+</tr>
+</table>
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt/main/images/11.png" width="120%" style="max-width:400px;">
+</td>
+<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt/main/images/16.png" width="120%" style="max-width:400px;">
+</td>
+<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt/main/images/18.png" width="120%" style="max-width:400px;">
+</td>
+</tr>
+</table>
+
 
 |Modern Database Systems |
 | :--- |
@@ -65,19 +102,6 @@ https://github.com/user-attachments/assets/1e1f537a-c317-4257-a635-a3087cad0ad7
 | [🔗 View Repository](https://github.com/nat-hu/AML-Portfolio) \ |
 
 ---
-
-<div style="display: flex; overflow-x: auto; white-space: nowrap;">
-  <a href="https://github.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt">
-    <img src="https://raw.githubusercontent.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt/main/images/1.png" alt="Slide 1" style="height: 300px; margin-right: 10px;">
-  </a>
-  <a href="https://github.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt">
-    <img src="https://raw.githubusercontent.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt/main/images/2.png" alt="Slide 2" style="height: 300px; margin-right: 10px;">
-  </a>
-  <a href="https://github.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt">
-    <img src="https://raw.githubusercontent.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt/main/images/3.png" alt="Slide 3" style="height: 300px; margin-right: 10px;">
-  </a>
-</div>
-
 
 ### 💡 How to navigate this portfolio
 * **Watch the Clips:** Click the play button on project videos to see a quick demo of the features.
