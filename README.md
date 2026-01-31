@@ -167,6 +167,50 @@ This repository contains the practical implementations and theoretical recaps fr
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
 <td width="70%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/nat-hu/pointnclick_escaperoom_game/main/images/PointnClick_Adventure_2021-01-05_10-44-28.gif"
+     width="100%"
+     style="height:auto; max-height:500px; border-radius:8px;"
+     alt="Point & Click Escape Room Game 🕹️">
+</td>
+
+<td width="30%" valign="top" style="padding-left: 20px;">
+<h3>Escape Room Game</h3>
+
+<p><strong>Tools:</strong><br>
+<code>Java</code> · <code>JavaFX</code> · <code>Spring Framework</code> · <code>PostgreSQL</code> · <code>REST API</code>
+</p>
+
+<p><strong>Description:</strong><br>
+An immersive 2D adventure featuring an Escape Room game with custom <strong>Character Creation Tool</strong>, <strong>Mini Games</strong>, a global <strong>Hall of Fame</strong>. The project implements a robust architecture using <strong>Dependency Injection</strong> (Spring) and a <strong>RESTful backend</strong> (Spring Boot) to manage highscores and player data in a PostgreSQL database.
+</p>
+
+<p>
+<a href="https://github.com/nat-hu/pointnclick_escaperoom_game">🔗 View Repository</a><br>
+<a href="https://github.com/nat-hu/pointnclick_escaperoom_game/blob/main/PointnClick_presentation.pdf">📄 Technical Documentation (PDF)</a>
+</p>
+</td>
+</tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/nat-hu/pointnclick_escaperoom_game/main/images/se_click_game_gadgets.png" width="100%" style="max-width:400px; border-radius:6px;">
+</td>
+<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/nat-hu/pointnclick_escaperoom_game/main/images/Slide3.png" width="100%" style="max-width:400px; border-radius:6px;">
+</td>
+<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/nat-hu/pointnclick_escaperoom_game/main/images/Slide5.png" width="100%" style="max-width:400px; border-radius:6px;">
+</td>
+</tr>
+</table>
+
+---
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="70%" align="center" valign="middle">
 <img src="https://raw.githubusercontent.com/nat-hu/blossom_breeze/main/images/blossombreeze_short.gif"
      width="100%"
      style="height:auto; max-height:500px; border-radius:8px;"
