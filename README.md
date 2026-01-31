@@ -66,6 +66,18 @@ https://github.com/user-attachments/assets/1e1f537a-c317-4257-a635-a3087cad0ad7
 
 ---
 
+<div style="display: flex; overflow-x: auto; white-space: nowrap;">
+  <a href="https://github.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt">
+    <img src="https://raw.githubusercontent.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt/main/images/1.png" alt="Slide 1" style="height: 300px; margin-right: 10px;">
+  </a>
+  <a href="https://github.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt">
+    <img src="https://raw.githubusercontent.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt/main/images/2.png" alt="Slide 2" style="height: 300px; margin-right: 10px;">
+  </a>
+  <a href="https://github.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt">
+    <img src="https://raw.githubusercontent.com/nat-hu/DS_LOD_and_Knowledge_Graphs_2023_Anh_Thu_Bui_Natalie_Hussfeldt/main/images/3.png" alt="Slide 3" style="height: 300px; margin-right: 10px;">
+  </a>
+</div>
+
 
 ### 💡 How to navigate this portfolio
 * **Watch the Clips:** Click the play button on project videos to see a quick demo of the features.
