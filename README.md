@@ -164,7 +164,46 @@ This repository contains the practical implementations and theoretical recaps fr
 
 ---
 
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="70%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/nat-hu/blossom_breeze/main/images/blossombreeze_short.gif"
+     width="100%"
+     style="height:auto; max-height:500px; border-radius:8px;"
+     alt="Blossom Breeze Animation🌸">
+</td>
 
+<td width="30%" valign="top" style="padding-left: 20px;">
+<h3>Blossom Breeze</h3>
+
+<p><strong>Tools:</strong><br>
+<code>Blender</code> · <code>Digital Art</code> · <code>3D Modeling</code> · <code>Rendering</code>
+</p>
+
+<p><strong>Description:</strong><br>
+Blossom Breeze is a creative exploration into atmospheric 3D environments. This project focuses on high-fidelity rendering and the intersection of technology and art, utilizing advanced shaders and lighting to evoke a sense of digital tranquility.
+</p>
+
+<p>
+<a href="https://github.com/nat-hu/blossom_breeze">🔗 View Repository</a>
+</p>
+</td>
+</tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/nat-hu/blossom_breeze/main/images/BlossomBreeze_1.png" width="100%" style="max-width:400px; border-radius:6px;">
+</td>
+<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/nat-hu/blossom_breeze/main/images/BlossomBreeze_2.png" width="100%" style="max-width:400px; border-radius:6px;">
+</td>
+<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/nat-hu/blossom_breeze/main/images/BlossomBreeze_4.png" width="100%" style="max-width:400px; border-radius:6px;">
+</td>
+</tr>
+</table>
 ---
 
 
