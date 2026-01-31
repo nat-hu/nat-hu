@@ -25,6 +25,8 @@
 * **Master's Thesis:** Few-shot LLM forecasting and time series anomaly detection using **Mistral & LLaMA & DeepSeek** via the **Unsloth Framework**.
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nat-hu&layout=compact)
+
 ### ⚡ Technical Toolkit
 **AI/Data:** Python, PyTorch, Hugging Face, Unsloth, SQL, Snowflake, Celonis, Dataiku  
 **Engineering:** C, C++, Java, Linux, Docker, Git  
@@ -86,32 +88,86 @@ Technical analysis of pandemic dynamics using Semantic Web technologies. I devel
 </tr>
 </table>
 
+---
 
-|Modern Database Systems |
-| :--- |
-| **Tools:** `PostgreSQL`, `Neo4j AuraDB`, `SQL`, `Cypher`, `Python` |
-| **Description:** Comparative analysis of **Relational vs. Graph Databases** in an educational context. Using the OULAD dataset, I implemented queries to identify at-risk students and provide personalized learning recommendations. The project highlights **Neo4j's** efficiency in handling complex, interconnected student data compared to traditional **SQL** joins. |
-| [🔗 View Repository](https://github.com/nat-hu/modern_database_systems) \| [📄 Full Presentation (PDF)](https://github.com/nat-hu/modern_database_systems/blob/6b89b5e02f606265f928f6e60df8ec09f9f120e7/modern_database_systems.pdf) |
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="70%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/nat-hu/modern_database_systems/main/images/1.png"
+     width="100%"
+     style="height:auto; max-height:500px; border-radius:8px;"
+     alt="Modern Database Systems">
+</td>
+
+<td width="30%" valign="top">
+<h3>Modern Database Systems</h3>
+
+<p><strong>Tools:</strong><br>
+<code>PostgreSQL</code> · <code>Neo4j AuraDB</code> · <code>Cypher</code> ·
+<code>SQL</code> · <code>Python</code> · <code>Docker</code>
+</p>
+
+<p><strong>Description:</strong><br>
+Comparative analysis of <strong>Relational vs. Graph Databases</strong> in an educational context. Using the OULAD dataset, I implemented queries to identify at-risk students and provide personalized learning recommendations. The project highlights <strong>Neo4j's</strong> efficiency in handling complex, interconnected student data compared to traditional <strong>SQL</strong> joins.
+</p>
+
+<p>
+<a href="https://github.com/nat-hu/modern_database_systems">🔗 View Repository</a><br>
+<a href="https://github.com/nat-hu/modern_database_systems/blob/6b89b5e02f606265f928f6e60df8ec09f9f120e7/modern_database_systems.pdf">📄 Full Presentation (PDF)</a>
+</p>
+</td>
+</tr>
+</table>
 
 
-https://github.com/user-attachments/assets/1e1f537a-c317-4257-a635-a3087cad0ad7
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/nat-hu/modern_database_systems/main/images/8.png" width="120%" style="max-width:400px;">
+</td>
+<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/nat-hu/modern_database_systems/main/images/9.png" width="120%" style="max-width:400px;">
+</td>
+<td width="33%" align="center">
+<img src="https://raw.githubusercontent.com/nat-hu/modern_database_systems/main/images/10.png" width="120%" style="max-width:400px;">
+</td>
+</tr>
+</table>
    
 ---
-|AML Portfolio |
-| :--- |
-| **Tools:** `Python`, `Scikit-learn`, `TensorFlow/PyTorch`, `NLTK/Transformers` |
-| [![AML Portfolio Preview](https://github.com/nat-hu/AML-Portfolio/raw/main/aml_portfolio_details.png)](https://github.com/nat-hu/AML-Portfolio/blob/main/aml_portfolio_details.pdf) |
-| **Description:** This repository contains the practical implementations and theoretical recaps from the Advanced Machine Learning specialization. The course focuses on modern ML/DL principles, transitioning from theory to real-world applications in Computer Vision (CV) and Natural Language Understanding (NLU). |
-| [🔗 View Repository](https://github.com/nat-hu/AML-Portfolio) \ |
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="70%" align="center" valign="middle">
+<img src="https://github.com/nat-hu/AML-Portfolio/raw/main/aml_portfolio_details.png"
+     width="100%"
+     style="height:auto; max-height:500px; border-radius:8px;"
+     alt="AML Details">
+</td>
+
+<td width="30%" valign="top">
+<h3>Advanced Machine Learning Portfolio</h3>
+
+<p><strong>Tools:</strong><br>
+<code>Scikit-learn</code> · <code>TensorFlow/PyTorch</code> · <code>NLTK/Transformers</code> · <code>Python</code> 
+</p>
+
+<p><strong>Description:</strong><br>
+This repository contains the practical implementations and theoretical recaps from the Advanced Machine Learning specialization. The course focuses on modern ML/DL principles, transitioning from theory to real-world applications in Computer Vision (CV) and Natural Language Understanding (NLU).
+</p>
+
+<p>
+<a href="https://github.com/nat-hu/AML-Portfolio">🔗 View Repository</a><br>
+</p>
+</td>
+</tr>
+</table>
 
 ---
 
-### 💡 How to navigate this portfolio
-* **Watch the Clips:** Click the play button on project videos to see a quick demo of the features.
-* **Deep Dive:** Use the "Full Presentation" links to view detailed architectural slides and methodology.
-* **Explore Code:** The "View Repository" links take you directly to the source code and documentation.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nat-hu&layout=compact)
+---
+
+
 
 ### 📫 Connect with me
 [<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin">](http://linkedin.com/in/natalie-hussfeldt-2b1742239) 
