@@ -1,19 +1,24 @@
-# Hi there, I'm Natalie! 
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+  <!-- Bild links, zentriert -->
+  <td width="40%" align="center" valign="middle">
+    <img src="https://raw.githubusercontent.com/nat-hu/nat-hu/main/header.png" width="100%" style="border-radius:8px; max-height:400px;">
+  </td>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Focus-Data and Information Science-%23006400?style=for-the-badge&logo=databricks&logoColor=white">
-  <img src="https://img.shields.io/badge/M.Sc.-Digital%20Sciences-%23006400?style=for-the-badge&logo=readthedocs&logoColor=white">
-  <img src="https://img.shields.io/badge/Location-Cologne%2C%20DE-%23006400?style=for-the-badge&logo=googlemaps&logoColor=white">
-</p>
+  <!-- Text rechts -->
+  <td width="60%" valign="middle" style="padding-left:20px;">
+    <!-- Zitat mittig -->
+    <blockquote style="text-align: center; margin: 0 0 20px;">
+      <em>"Imagination is the Discovering Faculty, pre-eminently. It is that which penetrates into the unseen worlds around us, the worlds of science."</em><br> — <strong>Ada Lovelace</strong>
+    </blockquote>
+    <!-- Beschreibung linksbündig -->
+    <p style="text-align: left; margin: 0;">
+      I love technical challenges, whether mastering a new programming language, exploring the latest LLM research, or building data-driven solutions in a team. I’m currently focused on AI, NLP, and Machine Learning with Python, but my roots are in Java and Fullstack Web Development. I am always up to learn new things, like last year when I moved to Paris for an exchange at Epitech and learned C from scratch through their intensive Pool.
+    </p>
+  </td>
+</tr>
+</table>
 
-### About Me
-
-> *"Imagination is the Discovering Faculty, pre-eminently. It is that which penetrates into the unseen worlds around us, the worlds of science."* — **Ada Lovelace**
-
-I’m a 25-year-old **Digital Sciences Master’s student** at TH Köln. I live for technical challenges—whether it’s mastering a new programming language, diving into the latest LLM research, or building data-driven solutions in a team. 
-
-While I’m currently deep in the world of **AI, NLP, and Machine Learning** (mostly with Python), my roots are in **Java Software Development and Fullstack Web Development**. 
-I love learning new things and pushing my limits like last year, when I moved to Paris for an exchange at **Epitech**, learning **C from scratch** through their intensive "Active Pedagogy" (The Pool).
 
 ### 🔬 Featured Research
 * **CLEF 2024 Publication:** Engineered an ensemble approach (GPT-4, Llama 3, Gemma) for Multilingual Hallucination Detection (**0.91 F1-score**). [<img src="https://img.shields.io/badge/arXiv-2407.09152-b31b1b?style=flat-square&logo=arxiv&logoColor=white">](https://arxiv.org/abs/2407.09152)
@@ -31,11 +36,9 @@ I love learning new things and pushing my limits like last year, when I moved to
 Most of my work is kept in **private repositories** for confidentiality and academic integrity.
 However, you can find a selection of projects here that reflect my journey and growth, starting from my roots in Media Informatics and evolving into my current specialization in Data Science. 
 These public repositories showcase a variety of lab work and personal experiments across different languages and frameworks.
+
 ---
-
 ### Project Portfolio
-
-
 ---
 
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
