@@ -390,6 +390,53 @@ Blossom Breeze is a creative exploration into atmospheric 3D environments. This 
 ---
 
 
+---
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="70%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/nat-hu/c-pool-epitech/main/images/epitech.png"
+     width="100%"
+     style="height:auto; max-height:500px; border-radius:8px;"
+     alt="Epitech C Pool Exchange Semester">
+</td>
+
+<td width="30%" valign="top" style="padding-left: 20px;">
+<h3>The Epitech C Pool (Piscine)</h3>
+
+<p><strong>Tools:</strong><br>
+<code>C</code> · <code>Unix Shell</code> · <code>Makefile</code> · <code>GCC</code> 
+</p>
+
+<p><strong>Description:</strong><br>
+An intensive 4-week deep dive into low-level systems programming during my exchange semester at <b>Epitech Paris</b>. I re-developed the <b>C Standard Library</b> from scratch, implemented complex data structures, and mastered the strict <b>Epitech Norm</b> for high-quality, maintainable code.
+</p>
+
+<p>
+<a href="https://github.com/nat-hu/c-pool-epitech">🔗 View Repository</a><br>
+<a href="https://github.com/nat-hu/c-pool-epitech/tree/main/tasks">📄 Technical Subjects (PDF)</a>
+</p>
+</td>
+</tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="33%" align="center" style="padding:5px;">
+<img src="https://raw.githubusercontent.com/nat-hu/c-pool-epitech/main/images/preliminaries.png" width="100%" style="border-radius:6px;" alt="Technical Preliminaries">
+</td>
+<td width="33%" align="center" style="padding:5px;">
+<img src="https://raw.githubusercontent.com/nat-hu/c-pool-epitech/main/images/day_one.png" width="100%" style="border-radius:6px;" alt="Daily Task Example">
+</td>
+<td width="33%" align="center" style="padding:5px;">
+<img src="https://raw.githubusercontent.com/nat-hu/c-pool-epitech/main/images/kickof_print.png" width="100%" style="border-radius:6px;" alt="Coding Style & Implementation">
+</td>
+</tr>
+</table>
+
+---
+
+
 
 ### 📫 Connect with me
 [<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin">](http://linkedin.com/in/natalie-hussfeldt-2b1742239) 
