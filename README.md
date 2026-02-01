@@ -153,7 +153,6 @@ The system leverages the <b>CalDAV protocol</b> for secure cloud synchronization
 </p>
 
 <p>
-<a href="https://gitlab.mi.hdm-stuttgart.de/nh087/si-ss-2022-bretz-bui-hussfeldt-si-calendar-skill">🔗 View Original GitLab</a><br>
 <a href="https://github.com/nat-hu/si-ss-2022-bretz-bui-hussfeldt-si-calendar-skill">🔗 View Repository</a>
 </p>
 </td>
