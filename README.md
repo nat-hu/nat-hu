@@ -436,6 +436,38 @@ An intensive 4-week deep dive into low-level systems programming during my excha
 
 ---
 
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="65%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/nat-hu/mobile-app-dev-fischis/main/images/app-flow.png"
+     width="100%"
+     style="height:auto; max-height:500px; border-radius:8px;"
+     alt="FishFocus App Flow">
+</td>
+
+<td width="35%" valign="top" style="padding-left: 20px;">
+<h3>Mobile App Development Fischis</h3>
+
+<p><strong>Stack:</strong><br>
+<code>Java</code> · <code>Android SDK</code> 
+</p>
+
+<p><strong>Description:</strong><br>
+A mobile application developed for the course <b>Mobile Application Development</b>. It gamifies "Deep Work" by rewarding focus sessions with virtual fish that evolve through 3 stages and are collected in a permanent aquarium.
+</p>
+
+<p><strong>Highlights:</strong><br>
+Implemented a <b>FishFactory</b> pattern for dynamic entity creation, <b>Room persistence</b> for local game data, and <b>strict lifecycle monitoring</b> to ensure users stay focused within the app.
+</p>
+
+<p>
+<a href="https://github.com/nat-hu/mobile-app-dev-fischis">🔗 View Repository</a>
+</p>
+</td>
+</tr>
+</table>
+
+---
 
 
 ### 📫 Connect with me
