@@ -127,8 +127,70 @@ Implemented a <b>Convolutional Neural Network (CNN)</b> to classify audio segmen
 </tr>
 </table>
 
+---
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="65%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/nat-hu/si-ss-2022-bretz-bui-hussfeldt-si-calendar-skill/main/images/task.png"
+     width="100%"
+     style="height:auto; max-height:500px; border-radius:8px;"
+     alt="Mycroft NextCloud Skill Architecture">
+</td>
+
+<td width="35%" valign="top" style="padding-left: 20px;">
+<h3>🎙️ Mycroft NextCloud Calendar Skill</h3>
+
+<p><strong>Stack & Hardware:</strong><br>
+<code>Python</code> · <code>CalDAV</code> · <code>Raspberry Pi 4</code> · <code>Picroft</code> · <code>Logitech C270</code> · <code>MiFa Speaker</code>
+</p>
+
+<p><strong>Description:</strong><br>
+This project features a custom <b>Mycroft AI Skill</b> developed for the <b>Speech Interaction (SS22)</b> course at HdM Stuttgart. It allows users to query, create, rename, and delete appointments in their <b>NextCloud calendar</b> through natural language dialogue.
+</p>
+
+<p><strong>Technical Implementation Details:</strong><br>
+The system leverages the <b>CalDAV protocol</b> for secure cloud synchronization and features a robust <b>multi-turn dialogue system</b> to ensure accurate event parsing. All code strictly adheres to the <b>Google Python Style Guidelines</b>. </b> Optimized for the <b>Picroft ecosystem</b> on a Raspberry Pi 4. The setup utilizes a specialized HdM-hosted Mycroft Home server and NextCloud instance for secure, private data processing.
+</p>
+
+<p>
+<a href="https://gitlab.mi.hdm-stuttgart.de/nh087/si-ss-2022-bretz-bui-hussfeldt-si-calendar-skill">🔗 View Original GitLab</a><br>
+<a href="https://github.com/nat-hu/si-ss-2022-bretz-bui-hussfeldt-si-calendar-skill">🔗 View Repository</a>
+</p>
+</td>
+</tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="33%" valign="top" style="padding:15px; background-color: #f8f9fa; border-radius:8px; border: 1px solid #e1e4e8;">
+<strong>Querying Plans</strong><br>
+<small>
+<i>User:</i> "What are my plans on Tuesday?"<br>
+<i>Mycroft:</i> "Your plans for Tuesday are as follows: You have a total of 2 appointments. 1: Lecture at 8 AM. 2: Gym at 5 PM."
+</small>
+</td>
+<td width="33%" valign="top" style="padding:15px; background-color: #f8f9fa; border-radius:8px; border: 1px solid #e1e4e8;">
+<strong>Creating Events</strong><br>
+<small>
+<i>User:</i> "Create a new event."<br>
+<i>Mycroft:</i> "Tell me the title... for which date... at what time?"<br>
+<i>User:</i> "Coffee with Lea, tomorrow, 10 AM."
+</small>
+</td>
+<td width="33%" valign="top" style="padding:15px; background-color: #f8f9fa; border-radius:8px; border: 1px solid #e1e4e8;">
+<strong>Deleting Events</strong><br>
+<small>
+<i>User:</i> "Delete event."<br>
+<i>Mycroft:</i> "Which one do you want to delete?"<br>
+<i>User:</i> "Gym at 5 PM."<br>
+<i>Mycroft:</i> "Should I delete 'Gym'? ... I deleted it."
+</small>
+</td>
+</tr>
+</table>
 
 ---
+
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
 <td width="65%" align="center" valign="middle">
