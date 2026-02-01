@@ -33,14 +33,68 @@
 **Languages:** German (Native), English (C1), French (A2)
 
 ---
-
-### 🔒 Note on Repositories
-Most of my work is kept in **private repositories** for confidentiality and academic integrity.
-However, you can find a selection of projects here that reflect my journey and growth, starting from my roots in Media Informatics and evolving into my current specialization in Data Science. 
-These public repositories showcase a variety of lab work and personal experiments across different languages and frameworks.
+### Project Portfolio
 
 ---
-### Project Portfolio
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="65%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/nat-hu/eloquent-hallucination-lab/main/images/project.png"
+     width="100%"
+     style="height:auto; max-height:500px; border-radius:8px;"
+     alt="Hallucination Detection Architecture">
+</td>
+
+<td width="35%" valign="top" style="padding-left: 20px;">
+<h3>🔍 LLM Hallucination Evaluators</h3>
+
+<p><strong>Stack:</strong><br>
+<code>Python</code> · <code>Guidance</code> · <code>PyTorch</code> · <code>Transformers</code> · <code>Jupyter</code>
+</p>
+
+<p><strong>Description:</strong><br>
+A research project for the <b>ELOQUENT Lab @ CLEF 2024</b>. This system utilizes LLMs as autonomous evaluators to generate and detect hallucinations in <b>Machine Translation</b> and <b>Paraphrasing</b> across multiple languages.
+</p>
+
+<p><strong>Highlights:</strong><br>
+Implemented <b>Ensemble Majority Voting</b> and <b>Inverse Proportion Weighting</b> to optimize detection accuracy across Llama 3, Gemma, GPT-3.5 Turbo, and GPT-4 architectures.
+</p>
+
+<p>
+<a href="https://arxiv.org/abs/2407.09152">📰 Read Paper (arXiv)</a><br>
+<a href="https://github.com/nat-hu/eloquent-hallucination-lab">🔗 View Repository</a>
+</p>
+</td>
+</tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="33%" align="center" style="padding:5px;">
+<img src="https://raw.githubusercontent.com/nat-hu/eloquent-hallucination-lab/main/images/task_builder.png" width="100%" style="border-radius:6px;" alt="Builder Task Workflow">
+</td>
+<td width="33%" align="center" style="padding:5px;">
+<img src="https://raw.githubusercontent.com/nat-hu/eloquent-hallucination-lab/main/images/voting.png" width="100%" style="border-radius:6px;" alt="Ensemble Methods">
+</td>
+<td width="33%" align="center" style="padding:5px;">
+<img src="https://raw.githubusercontent.com/nat-hu/eloquent-hallucination-lab/main/images/detection_task.png" width="100%" style="border-radius:6px;" alt="Performance Metrics">
+</td>
+</tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="50%" align="center" style="padding:10px;">
+  <img src="https://raw.githubusercontent.com/nat-hu/eloquent-hallucination-lab/main/images/translation_task.png" width="100%" alt="Translation Task">
+  <p><i>Machine Translation Evaluation</i></p>
+</td>
+<td width="50%" align="center" style="padding:10px;">
+  <img src="https://raw.githubusercontent.com/nat-hu/eloquent-hallucination-lab/main/images/paraphrase_task.png" width="100%" alt="Paraphrase Task">
+  <p><i>Paraphrase Generation Evaluation</i></p>
+</td>
+</tr>
+</table>
+
 ---
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
