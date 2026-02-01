@@ -25,17 +25,7 @@
 * **Master's Thesis:** Few-shot LLM forecasting and time series anomaly detection using **Mistral & LLaMA & DeepSeek** via the **Unsloth Framework**.
 ---
 
-<p align="center">
-  <a href="https://github.com/nat-hu/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=nat-hu" />
-  </a>
-  <a href="https://github.com/nat-hu/convoychat">
-    <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=nat-hu&layout=compact&langs_count=8&card_width=320" />
-  </a>
-</p>
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nat-hu)](https://github.com/nat-hu/github-readme-stats)
 
 ### ⚡ Technical Toolkit
 **AI/Data:** Python, PyTorch, Hugging Face, Unsloth, SQL, Snowflake, Celonis, Dataiku  
