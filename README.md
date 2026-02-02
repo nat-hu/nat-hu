@@ -331,6 +331,60 @@ Comparative analysis of <strong>Relational vs. Graph Databases</strong> in an ed
 </table>
    
 ---
+---
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="65%" align="center" valign="middle">
+<img src="https://raw.githubusercontent.com/nat-hu/data-mining-and-pattern-recognition/main/images/heatmap_music_feature_dist.png" 
+     width="100%" 
+     style="height:auto; max-height:500px; border-radius:8px;" 
+     alt="Music Feature Heatmap">
+</td>
+
+<td width="35%" valign="top" style="padding-left: 20px;">
+<h3>📊 Data Mining & Pattern Recognition</h3>
+
+<p><strong>Stack:</strong><br>
+<code>Python</code> · <code>Scikit-learn</code> · <code>TensorFlow</code> · <code>Spotify API</code> · <code>Pandas</code> · <code>NumPy</code>
+</p>
+
+<p><strong>Description:</strong><br>
+An advanced exploration of Machine Learning algorithms focused on <b>knowledge discovery</b>. For example work with the <b>Spotify API</b> to perform deep feature extraction of audio metrics—such as <i>danceability, energy, and acousticness</i>—to automate playlist generation through unsupervised clustering.
+</p>
+
+<p><strong>Highlights:</strong><br>
+Applied a <b>Genetic Algorithm</b> to identify the most significant audio descriptors for high-accuracy music grouping and engineered a <b>CNN</b> for traffic sign recognition using adaptive histogram equalization.
+</p>
+
+<p>
+<a href="https://github.com/nat-hu/data-mining-and-pattern-recognition">🔗 View Repository</a>
+</p>
+</td>
+</tr>
+</table>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="25%" align="center" style="padding:5px;">
+<img src="https://raw.githubusercontent.com/nat-hu/data-mining-and-pattern-recognition/main/images/algorithmn.png" width="100%" style="border-radius:6px;" alt="Genetic Algorithm">
+<p><small>Genetic Algorithm Optimization</small></p>
+</td>
+<td width="25%" align="center" style="padding:5px;">
+<img src="https://raw.githubusercontent.com/nat-hu/data-mining-and-pattern-recognition/main/images/hierarchial_Clustering.png" width="100%" style="border-radius:6px;" alt="Hierarchical Clustering">
+<p><small>Hierarchical Dendrogram</small></p>
+</td>
+<td width="25%" align="center" style="padding:5px;">
+<img src="https://raw.githubusercontent.com/nat-hu/data-mining-and-pattern-recognition/main/images/clustering.png" width="100%" style="border-radius:6px;" alt="K-Means Clustering">
+<p><small>Music Feature Clustering</small></p>
+</td>
+</tr>
+</table>
+
+---
+
+
+---
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
 <td width="70%" align="center" valign="middle">
