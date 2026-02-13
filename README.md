@@ -26,9 +26,27 @@
 ---
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nat-hu)](https://github.com/nat-hu/github-readme-stats)
 
-### ⚡ Technical Toolkit
-**AI/Data:** Python, PyTorch, Hugging Face, Unsloth, SQL, Snowflake, Celonis, Dataiku  
-**Engineering:** C, C++, Java, Linux, Docker, Git  
+### Technical Toolkit
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Celonis](https://img.shields.io/badge/Celonis-00A3E0?style=flat)
+![Dataiku](https://img.shields.io/badge/Dataiku-2AB1AC?style=flat)
+![Unsloth](https://img.shields.io/badge/Unsloth-111111?style=flat)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+
 **Languages:** German (Native), English (C1), French (A2)
 
 ---
